@@ -1,0 +1,86 @@
+.login {
+  width: 300px;
+  margin: 0 auto;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.loginTitle {
+  text-align: center;
+  color: #fff;
+  margin-top: 10px;
+}
+
+.loginLogin,
+.loginPassword {
+  border: 2px solid #fff;
+  border-radius: 8px;
+  display: block;
+  margin: 10px auto;
+  padding: 4px 10px;
+  color: #fff;
+}
+
+.loginBtn {
+  display: block;
+  border: 2px solid #fff;
+  background-color: #fff;
+  color: rgb(99, 37, 169);
+  padding: 4px 40px;
+  border-radius: 8px;
+  margin: 10px auto;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.loginBtn:hover {
+  background-color: rgb(99, 37, 169);
+  color: #fff;
+  transition: 0.15s;
+}
+
+/* регистраиця */
+
+.register {
+  width: 300px;
+  margin: 0 auto;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  margin-top: 40px;
+  margin-top: 150px;
+}
+
+.registerTitle {
+  text-align: center;
+  color: #fff;
+  margin-top: 10px;
+}
+
+.registerLogin,
+.registerPassword {
+  border: 2px solid #fff;
+  border-radius: 8px;
+  display: block;
+  margin: 10px auto;
+  padding: 4px 10px;
+  color: #fff;
+}
+
+.registerBtn {
+  display: block;
+  border: 2px solid #fff;
+  background-color: #fff;
+  color: rgb(99, 37, 169);
+  padding: 4px 40px;
+  border-radius: 8px;
+  margin: 10px auto;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.registerBtn:hover {
+  background-color: rgb(99, 37, 169);
+  color: #fff;
+  transition: 0.15s;
+}
